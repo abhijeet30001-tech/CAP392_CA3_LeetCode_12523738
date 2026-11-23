@@ -1,5 +1,3 @@
-// LeetCode 622 - Design Circular Queue
-
 class MyCircularQueue {
     private int[] arr;
     private int front;
